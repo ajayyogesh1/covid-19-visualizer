@@ -1,0 +1,35 @@
+Python Libraries to be installed on System:
+	Matplotlib
+	Pandas
+	PyQt5
+	requests
+
+To Install the Above Libraries Open Your Command Prompt
+
+For Matplotlib :
+		
+		pip install matplotlib
+
+For Pandas :
+
+		pip install pandas
+
+For requests :
+
+		pip install requests
+
+For PyQt5 :
+
+		pip install PyQt5
+		
+for folium
+	
+		pip install folium
+		
+For Easy Install Open Command Prompt at this Directory and Type the Following Command
+
+		pip install -r Packages.txt
+		
+For Linux Os Use this Command
+
+		pip3 install -r Packages.txt
